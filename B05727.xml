@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proclamation regulating several particulars anent the pole, and intimating the next years pole.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05727</idno>
+            <idno type="STC">Wing S1974</idno>
+            <idno type="STC">ESTC R226101</idno>
+            <idno type="EEBO-CITATION">52529003</idno>
+            <idno type="OCLC">ocm 52529003</idno>
+            <idno type="VID">179113</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05727)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179113)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2777:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proclamation regulating several particulars anent the pole, and intimating the next years pole.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1694-1702 : William II)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson, Printer to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Intentional blank spaces in text.</note>
+                  <note>Dated at end: Given under Our Signet at Edinburgh the fifteenth day of September, and of Our Reign the eleventh year, 1699.</note>
+                  <note>Signed: Gilb. Elliot Cls. Sti. Concilii.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poll tax --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Tax collection --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:179113:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>
+               <figure>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <hi>PROCLAMATION</hi> Regulating ſeveral Particulars anent the <hi>Pole,</hi> and Intimating the next Years <hi>Pole.</hi>
+            </head>
+            <opener>
+               <signed>
+                  <hi>WILLIAM</hi> by the Grace of GOD, King of <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith,</signed>
+               <salute>To  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>  Macers of Our privy Council, Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally; ſpecially conſtitute Greeting:</salute>
+            </opener>
+            <p>
+               <hi>Foraſmuchas</hi> the firſt years Pole-money impoſed by an Act of the laſt Seſſion of this Our current Parliament, is not duely and compleatly payed in to the Tackſmen or Farmers thereof, by ſundry Perſons lyable in Payment of the ſame, Notwithſtanding of the foreſaid Act of Parliament and ſeveral Proclamations of Our Privy Council paſt and publiſhed thereanent; But ſeveral Doubts and Diffi<g ref="char:EOLhyphen"/>culties are alledged and pretended before the ſeveral Magiſtrats and others appointed as Judges, betwixt the ſaids Tackſmen and Farmers, and any of Our Liedges, anent the payment of the ſaid Pole-money, whereby the Diligence allowed by the foreſaid Act of Parliament for raiſing and in-bringing of the foreſaid Pole-money, is very much Obſtructed and Delayed: For Remeid whereof, We with Advice of the Lords of Our Privy Council, Appoint and Ordain all Miniſters of the Goſpel and Women Unmarried, who are of free Stock and Means, in the Terms of the foreſaid Act of Parliament, to be lyable in their ſingle Pole, as well as any other of Our Leidegs; And that where there is a Widow Liferentrix and Fiar upon one and the ſame Eſtate, That the Fiar be lyable in Pole-money, conform to his valued Rent, mentio<g ref="char:EOLhyphen"/>ned in the foreſaid Act of Parliament, and the Widow to be lyable to a third part of what her Husband would have payed, if polled the time of his Deceaſe: And ſicklike all Heretors below Sixty pounds of valued Rent, and of a thouſand Merks of free Stock or upwards, be<g ref="char:EOLhyphen"/>ſides their ſaids Lands, ſhould be lyable in Pole-money effeirand to the rate of their ſaid Stock. <hi>Item</hi> that all perſons out of the Kingdom, having an Eſtate Real or Moveable within the ſame, to be lyable in Pole-money according to the value thereof, in the Terms and conform to the reſpective Claſſes and Charecters ſpecified in the ſaid Act of Parliament; And their Tutors and Curators, Factors or Chamberlands, may be Conveened for payment of the ſingle Pole, for which the ſaid abſent Perſons are lyable accordingly, unleſs the ſaids Perſons were out of the Kingdom fourty days before the thirty day of <hi>Auguſt</hi> 1698, and did not return to the ſame for fourty days after the firſt day of <hi>March,</hi> one thouſand ſix hundred ninety nine years; And ſicklike, that all perſons not Writers to the Signet, who Deſign themſelves Writers or com<g ref="char:EOLhyphen"/>monly practiſes Writing of Bonds, Diſcharges or the like, be lyable conform to the foreſaid Act of Parliament: And We with Advice fore<g ref="char:EOLhyphen"/>ſaid Require and Command the Sheriffs of the ſeveral Shires, Magiſtrats of Burghs, Commiſſioners of Supply, Stewarts of Stewartries, Baillies of Regalities or Baronies or their reſpective Deputes, and allother perſons Authorized by any of Our former proclamations, to proceed and determine in the Caſes above-ſet down, in manner above-mentioned: And that they and each of them keep Courts and hold Dyets at the Head-Burghs of the reſpective Shires, Stewartries and Regalities, for deciding all Differences betwixt the ſaids Tackſmen and Our Leidges anent their Pole-money, and that how oft they ſhall be Deſired and Required by the ſaids Tackſmen for that effect, and that they ſhall not proceed to Judge and Determine any Differences anent the Pole-money, except at the ſaids reſpective Head-Burghs allennerly, unleſs the ſaids Tackſmen, their Sub<g ref="char:EOLhyphen"/>tackſmen or Collectors ſhall deſire the ſame or Conſent thereto. And <hi>Foraſmuchas</hi> the time for Stateing and Claſſing all perſons lyable in the ſecond years Pole impoſed by the twenty fifth Act of the laſt Seſſion of this current Parliament doth Approach, and that it is neceſſary Our Liedges have due Intimation thereof, To the effect they may prevent their being lyable to the Certifications contained in the Act of Parliament made thereanent: Therefore We, with Advice foreſaid, Require and Command all Our Liedges, whoſe Conditions or Cha<g ref="char:EOLhyphen"/>recters are altered, or who did not duely Claſs themſelves in the laſt years Pole, now to Claſs themſelves and give in the Liſt: of their Poles, un<g ref="char:EOLhyphen"/>der the Certification as for the former year, Declaring all perſons who duely Claſſed themſelves the laſt year, and whoſe Conditions, are not al<g ref="char:EOLhyphen"/>tered as ſaid is, free of new Claſſing and Liſting, but ſtill lyable as Claſſed the ſaid laſt year; And the Commiſſioners of Supply are to meet and divide themſelves, and do every other thing anent the Stating, Claſſing as above, and inbringing of the aforeſaid Pole-money for this enſuing year, as they were appointed by the foreſaid Act of Parliament, anent the laſt years Pole-money, and this preſent or any other for<g ref="char:EOLhyphen"/>mer Proclamation paſt and publiſhed thereanent: All which are hereby Revived and Declared to be in full Force and Effect, in reference to all Perſons and things therein contained, for Stating as above, uplifting and paying the ſaid Pole-money for this enſuing year, ſicklike and in the ſame manner as they were for the Pole-money in the year preceeding. OUR WILL IS HEREFORE, and We charge you ſtrictly and Command, that incontinent theſe Our Letters ſeen, ye paſs to the Mercat-Croſs of <hi>Edinburgh,</hi> and Remanent Mercat-Croſſes of the hail Head Burghs of the ſeveral Shires and Stewartries within this Kingdom, and their in Our Name and Authority by open Proclamation make Intimation hereof, That none may pretend Ignorance. And Ordains this preſents to be Printed and publiſhed.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh</hi> 
+                  <date>the Fifteenth day of September, and of Our Reign the Eleventh year, 1699.</date>
+               </dateline>
+               <signed>Per Actum Dominorum Secreti Concilii. <hi>GILB. ELLIOT</hi> Cls. Sti. Concilii</signed>
+               <lb/>
+GOD Save the King</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Printer to the Kings moſt Excellent Majeſty, <hi>Anno Dom.</hi> 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
